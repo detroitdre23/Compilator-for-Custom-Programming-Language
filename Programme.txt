@@ -1,0 +1,7 @@
+Program m
+PDEC
+i |j Pint;
+PINST
+Begin
+c<--1/0;
+End

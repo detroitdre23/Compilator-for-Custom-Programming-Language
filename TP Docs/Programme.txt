@@ -1,0 +1,12 @@
+Program monprgrm
+PDEC
+a Pint;
+a Pint;
+a Pint;
+PINST
+Begin
+FOR b <-- 1 WHILE 6 DO
+DO b <-- -3; : IF (c==2 | a>=a+b/2 & c<=a) ELSE b <-- -5;
+ENDIF
+ENDFOR
+End
